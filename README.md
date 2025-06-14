@@ -25,11 +25,6 @@ O VisuAll oferece uma solução de audiodescrição automática para imagens cap
 - **Ferramentas** Polly, Rekognition, Translation, Lex
 - **Infraestrutura:** AWS
 
-
-## Instruções de Instalação e Execução
-### Pré-requisitos
-XXX 
-
 ### Passos para instalação:
 Em modo de desenvolvimento
 1. Clone o repositório:  
@@ -37,5 +32,6 @@ Em modo de desenvolvimento
    git clone https://github.com/CarolBassan/13-Error404NameNotFound.git
    cd VisuAll
 
-Cenário ideal
-2. 
+2. Cenário ideal:
+ ```bash
+ Realizar o download diretamente da Play Store
