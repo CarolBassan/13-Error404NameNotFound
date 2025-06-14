@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  springboot-app:
+    image: springboot-app:latest
+    build: .
+    ports:
+      - "8080:8080" 
+    networks:
+      - app-network
+    environment:
+      - SPRING_PROFILES_ACTIVE=prod
+
+networks:
+  app-network:
+    driver: bridge
