@@ -30,7 +30,15 @@ Em modo de desenvolvimento
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/CarolBassan/13-Error404NameNotFound.git
-   cd VisuAll
+   cd 13-Error404NameNotFound
+   cd aplicativo
+   npm install
+   criar arquivo .env
+   adicionar API_URL="end-point da API"
+   npx expo start
+   *é necessário possuir o app Expo Go no dispositivo móvel para ler o QRCode gerado*
+   ler o QRCode do terminal para executar o app
+   
 
 2. Cenário ideal:
  ```bash
