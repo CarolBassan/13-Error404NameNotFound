@@ -3,9 +3,11 @@
 ## Equipe
 **Nome da equipe:** Error 404: Name Not Found  
 **Integrantes:**  
-- [Nome Completo] - [Função]  
-- [Nome Completo] - [Função]  
-- [Nome Completo] - [Função]  
+- [Augusto Gabriel Kemmerich] - Desenvolvimento de ideia e pitch
+- [Carolini Bassan Carlé] - Design visual e idealização
+- [Djonathan Vinicius Briesch dos Santos] - Desenvolvimento frontend
+- [Maurício Carvalho Cogo] - Desenvolvimento backend
+- [Rafael Müller Tischler] - Documentação do projeto e idealização
 
 ## Tema / Área do Problema
 **Acessibilidade para pessoas com deficiência visual**  
@@ -18,21 +20,22 @@ Pessoas com deficiência visual enfrentam dificuldades ao interpretar imagens e 
 O VisuAll oferece uma solução de audiodescrição automática para imagens capturadas pelo usuário. O aplicativo processa a foto e gera uma descrição detalhada em áudio e texto, facilitando a compreensão de elementos visuais. A interface é simples e intuitiva, garantindo uma navegação acessível com comandos de voz e toques na tela.
 
 ## Tecnologias Utilizadas
-- **Linguagens de Programação:** Python, Kotlin  
-- **Banco de Dados:** Firebase  
-- **Frameworks:** TensorFlow (para processamento de imagem), React Native (para desenvolvimento móvel)  
-- **Bibliotecas:** OpenCV (para análise de imagem), Speech Recognition API (para comandos de voz)  
-- **Infraestrutura:** AWS (armazenamento e processamento na nuvem)  
+- **Linguagens de Programação:** Java
+- **Frameworks:** Spring Boot
+- **Ferramentas** Polly, Rekognition, Translation, Lex
+- **Infraestrutura:** AWS
+
 
 ## Instruções de Instalação e Execução
 ### Pré-requisitos
-Antes de instalar o VisuAll, certifique-se de ter:
-- Node.js instalado  
-- Android Studio configurado (para emulação ou teste no dispositivo físico)  
-- Conta Firebase configurada  
+XXX 
 
 ### Passos para instalação:
+Em modo de desenvolvimento
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seuusuario/VisuAll.git
+   git clone https://github.com/CarolBassan/13-Error404NameNotFound.git
    cd VisuAll
+
+Cenário ideal
+2. 
